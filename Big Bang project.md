@@ -41,6 +41,9 @@ There are 5000 columns in the data
 
 ## What questions (from above) can be answered using the data in this dataset?
 The average income of people who live in that area.
+
 The average population who live in a specific area.
+
 The average price of house of a area.
+
 The average age of house of a area. 
